@@ -8,7 +8,6 @@ Sou desenvolvedor de software com foco em React, Node, Python e PHP. Tenho paix�
 
 - 💼 Atualmente trabalho prestando serviços para mais de uma empresa, com diferentes stacks.
 - 🎓 Formação em Análise e Desenvolvimento de Sistemas
-- 🌱 Aprendendo agora: Go
 
 ---
 
